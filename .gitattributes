@@ -1,2 +1,2 @@
 .mysql linguist-detectable=true
-.php linguist-detectable=true
+.php linguist-detectable=false
